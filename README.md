@@ -4,4 +4,4 @@
 
 ## dsc.gg click botter 
 
-![picture of tool in use](dsccgg.jpg)
+![picture of tool in use](dscggbot.jpg)
